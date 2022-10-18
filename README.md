@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @thigmotaxis
-- 👀 I’m interested in web development and accessibility
-- 🌱 I’m currently learning Python, HTML, CSS, JS, react
+
